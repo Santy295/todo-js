@@ -1,4 +1,4 @@
-# Webpack configurado
+# Administrador de tareas
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
